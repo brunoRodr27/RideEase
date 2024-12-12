@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="backgroud_default">#0D0D0D</color>
+    <color name="backgroud_default50">#80252525</color>
+    <color name="orange">#F7671E</color>
+    <color name="Aux">#B3585859</color>
+    <color name="orange2">#590902</color>
+    <color name="orange3">#F24C27</color>
+</resources>
